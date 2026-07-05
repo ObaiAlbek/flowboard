@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-   <h1>Hallo Welt</h1>
-  );
+  return <h1>FlowBoard</h1>;
 }
